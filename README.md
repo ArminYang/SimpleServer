@@ -1,2 +1,2 @@
 # SimpleServer
-practice node.js by use express framework
+Just practice node.js by use express framework

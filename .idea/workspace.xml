@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d20c4e9b-0b9f-4258-8a5b-d420e613c65f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Cerberus/routes/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cerberus/routes/loginfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cerberus/views/userinfo.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/pm2/development.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/pm2/development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/simpleServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/simpleServer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/body-parser/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/body-parser/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/body-parser/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/body-parser/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/body-parser/lib/types/urlencoded.js" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/body-parser/lib/types/urlencoded.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/body-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/bytes/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/bytes/History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/bytes/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/bytes/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/bytes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/bytes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/bytes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/bytes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/iconv-lite/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/iconv-lite/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/iconv-lite/Changelog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/iconv-lite/encodings/sbcs-codec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/iconv-lite/encodings/sbcs-codec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/iconv-lite/encodings/sbcs-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/iconv-lite/encodings/sbcs-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/iconv-lite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/iconv-lite/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/raw-body/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/raw-body/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/node_modules/raw-body/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/node_modules/raw-body/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/Cerberus/routes/userinfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/routes/welcome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cerberus/views/welcome.ejs" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,17 +38,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SXhfTwLYPsY11IF4IQ3ELcKpKQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Server" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -34,6 +70,28 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Node.js.www">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Cerberus/app.js" working-dir="$PROJECT_DIR$/Cerberus">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Cerberus/routes/login.js" working-dir="$PROJECT_DIR$/Cerberus/routes">
+      <method v="2" />
+    </configuration>
+    <configuration name="try.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/try.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="www" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Cerberus/bin/www" working-dir="$PROJECT_DIR$/Cerberus/bin">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.www" />
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.login.js" />
+        <item itemvalue="Node.js.try.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -44,8 +102,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571737231036</updated>
-      <workItem from="1571737232308" duration="747000" />
+      <workItem from="1571737232308" duration="954000" />
+      <workItem from="1571798623817" duration="1894000" />
+      <workItem from="1571966910710" duration="17189000" />
+      <workItem from="1571985413435" duration="27000" />
+      <workItem from="1571985466959" duration="9777000" />
     </task>
+    <task id="LOCAL-00001" summary="just a small change">
+      <created>1571738071788</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571738071788</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,10 +126,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="just a small change" />
+    <option name="LAST_COMMIT_MESSAGE" value="just a small change" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Cerberus/bin/www</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
